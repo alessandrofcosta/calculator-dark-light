@@ -23,7 +23,7 @@ document.addEventListener('keydown', function(event) {
         updateCalculator(keyPressed.replace('*', '×'));
     } else if (keyPressed === 'Enter') {
         equal();
-    } else if (keyPressed === 'Backspace') {
+    } else if (keyPressed === 'Backspace' || keyPressed === 'Escape') {
         limpar();
     }
 });
