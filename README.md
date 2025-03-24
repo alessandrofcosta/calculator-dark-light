@@ -7,7 +7,7 @@ Esta é uma calculadora simples que suporta os modos claro e escuro. Ela permite
 - Alternância entre modo claro e escuro
 
 ## Como usar
-Clone o repositório e abra o arquivo `index.html` em um navegador para usar a calculadora.
+Clone o repositório e abra o arquivo `index.html` em um navegador para usar a calculadora ou [clique aqui](https://alessandrofcosta.github.io/calculator-dark-light).
 
 ```bash
 git clone https://github.com/alessandrofcosta/calculator-dark-light.git
