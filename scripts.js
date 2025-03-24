@@ -10,7 +10,7 @@ if (localStorage.getItem('mode')) {
     }
 }
 
-total = localStorage.getItem('total');
+total = localStorage.getItem('total') || '';
 if (total) {
     document.querySelector('.js-show-calc').innerHTML = total
 }
